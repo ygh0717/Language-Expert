@@ -1,1 +1,2 @@
-# Language-Expert
+# I study step by step.
+C, C++, Win32, MFC, DataBase, C#...
