@@ -1,0 +1,7 @@
+﻿  실습.cpp
+C:\Users\bit\Desktop\study\0514\Win32_1\Win32_1\실습.cpp(128,9): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+C:\Users\bit\Desktop\study\0514\Win32_1\Win32_1\실습.cpp(129,17): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+C:\Users\bit\Desktop\study\0514\Win32_1\Win32_1\실습.cpp(127,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\bit\Desktop\study\0514\Win32_1\Win32_1\실습.cpp(127,9): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\bit\Desktop\study\0514\Win32_1\Win32_1\실습.cpp(188,13): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+  Win32_1.vcxproj -> C:\Users\bit\Desktop\study\0514\Win32_1\Debug\Win32_1.exe
