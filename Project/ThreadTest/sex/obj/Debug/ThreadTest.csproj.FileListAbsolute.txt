@@ -1,0 +1,10 @@
+C:\Users\ygh_0\OneDrive\바탕 화면\sexThread\sex\obj\Debug\ThreadTest.csproj.AssemblyReference.cache
+C:\Users\ygh_0\OneDrive\바탕 화면\sexThread\sex\obj\Debug\ThreadTest.csproj.GenerateResource.cache
+C:\Users\ygh_0\OneDrive\바탕 화면\sexThread\sex\obj\Debug\ThreadTest.csproj.CoreCompileInputs.cache
+C:\Users\ygh_0\OneDrive\바탕 화면\sexThread\sex\bin\Debug\ThreadTest.exe.config
+C:\Users\ygh_0\OneDrive\바탕 화면\sexThread\sex\bin\Debug\ThreadTest.exe
+C:\Users\ygh_0\OneDrive\바탕 화면\sexThread\sex\bin\Debug\ThreadTest.pdb
+C:\Users\ygh_0\OneDrive\바탕 화면\sexThread\sex\obj\Debug\ThreadTest.Properties.Resources.resources
+C:\Users\ygh_0\OneDrive\바탕 화면\sexThread\sex\obj\Debug\ThreadTest.exe
+C:\Users\ygh_0\OneDrive\바탕 화면\sexThread\sex\obj\Debug\ThreadTest.pdb
+C:\Users\ygh_0\OneDrive\바탕 화면\sexThread\sex\obj\Debug\ThreadTest.Form1.resources

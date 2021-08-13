@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadTest", "sex\ThreadTest.csproj", "{F6A27461-E67A-4B39-BFBB-D2511FA93A82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6A27461-E67A-4B39-BFBB-D2511FA93A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A27461-E67A-4B39-BFBB-D2511FA93A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A27461-E67A-4B39-BFBB-D2511FA93A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A27461-E67A-4B39-BFBB-D2511FA93A82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27E3EB27-7FE0-42DD-B381-136BAB5E17FA}
+	EndGlobalSection
+EndGlobal

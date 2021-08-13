@@ -1,0 +1,10 @@
+C:\Users\ygh_0\OneDrive\바탕 화면\sex\sex\bin\Debug\sex.exe.config
+C:\Users\ygh_0\OneDrive\바탕 화면\sex\sex\bin\Debug\sex.exe
+C:\Users\ygh_0\OneDrive\바탕 화면\sex\sex\bin\Debug\sex.pdb
+C:\Users\ygh_0\OneDrive\바탕 화면\sex\sex\obj\Debug\sex.csproj.AssemblyReference.cache
+C:\Users\ygh_0\OneDrive\바탕 화면\sex\sex\obj\Debug\sex.Properties.Resources.resources
+C:\Users\ygh_0\OneDrive\바탕 화면\sex\sex\obj\Debug\sex.csproj.GenerateResource.cache
+C:\Users\ygh_0\OneDrive\바탕 화면\sex\sex\obj\Debug\sex.csproj.CoreCompileInputs.cache
+C:\Users\ygh_0\OneDrive\바탕 화면\sex\sex\obj\Debug\sex.exe
+C:\Users\ygh_0\OneDrive\바탕 화면\sex\sex\obj\Debug\sex.pdb
+C:\Users\ygh_0\OneDrive\바탕 화면\sex\sex\obj\Debug\sex.Form1.resources
