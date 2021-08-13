@@ -1,0 +1,7 @@
+C:\Users\ygh_0\OneDrive\바탕 화면\SexMergeZip\SexMergeZip\bin\Debug\SexMergeZip.exe.config
+C:\Users\ygh_0\OneDrive\바탕 화면\SexMergeZip\SexMergeZip\bin\Debug\SexMergeZip.exe
+C:\Users\ygh_0\OneDrive\바탕 화면\SexMergeZip\SexMergeZip\bin\Debug\SexMergeZip.pdb
+C:\Users\ygh_0\OneDrive\바탕 화면\SexMergeZip\SexMergeZip\obj\Debug\SexMergeZip.csproj.AssemblyReference.cache
+C:\Users\ygh_0\OneDrive\바탕 화면\SexMergeZip\SexMergeZip\obj\Debug\SexMergeZip.csproj.CoreCompileInputs.cache
+C:\Users\ygh_0\OneDrive\바탕 화면\SexMergeZip\SexMergeZip\obj\Debug\SexMergeZip.exe
+C:\Users\ygh_0\OneDrive\바탕 화면\SexMergeZip\SexMergeZip\obj\Debug\SexMergeZip.pdb
