@@ -1,0 +1,7 @@
+C:\Users\ygh_0\OneDrive\바탕 화면\0819LogTest\0819LogTest\bin\Debug\0819LogTest.exe.config
+C:\Users\ygh_0\OneDrive\바탕 화면\0819LogTest\0819LogTest\bin\Debug\0819LogTest.exe
+C:\Users\ygh_0\OneDrive\바탕 화면\0819LogTest\0819LogTest\bin\Debug\0819LogTest.pdb
+C:\Users\ygh_0\OneDrive\바탕 화면\0819LogTest\0819LogTest\obj\Debug\0819LogTest.csproj.AssemblyReference.cache
+C:\Users\ygh_0\OneDrive\바탕 화면\0819LogTest\0819LogTest\obj\Debug\0819LogTest.csproj.CoreCompileInputs.cache
+C:\Users\ygh_0\OneDrive\바탕 화면\0819LogTest\0819LogTest\obj\Debug\0819LogTest.exe
+C:\Users\ygh_0\OneDrive\바탕 화면\0819LogTest\0819LogTest\obj\Debug\0819LogTest.pdb
